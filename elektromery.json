@@ -79,6 +79,10 @@
     {
       "id": "GCR_7",
       "nazev": "Nakoupená elektřina"
-    }
+    },
+    {
+      "id": "GCR_6",
+      "nazev": "Hlavní elektroměr"
+    }       
   ]
 }
