@@ -1,0 +1,72 @@
+{
+  "elektromery": [
+    {
+      "id": "M",
+      "nazev": "Mlýn přístavba"
+    },
+    {
+      "id": "B",
+      "nazev": "Mlýn budova"
+    },
+    {
+      "id": "B12",
+      "nazev": "ViVi Víšek Vladimír"
+    },
+    {
+      "id": "B09",
+      "nazev": "PDSOFT s.r.o. Valčík Michal"
+    },
+    {
+      "id": "B08",
+      "nazev": "Vrabcová Radka"
+    },
+    {
+      "id": "B14",
+      "nazev": "GLS s.r.o. GLS s.r.o."
+    },
+    {
+      "id": "B07",
+      "nazev": "SOS dětské vesničky, z. s. Mgr. Jana Nevřalová"
+    },
+    {
+      "id": "G01",
+      "nazev": "0"
+    },
+    {
+      "id": "G02",
+      "nazev": "Hrušková Hana"
+    },
+    {
+      "id": "B13",
+      "nazev": "B13 B13"
+    },
+    {
+      "id": "B10",
+      "nazev": "Bc. Karolína Bělohlávková"
+    },
+    {
+      "id": "B11",
+      "nazev": "JUDO Choceň z.s. Janouch Pavel"
+    },
+    {
+      "id": "B05",
+      "nazev": "PDSOFT s.r.o. II Valčík Michal II"
+    },
+    {
+      "id": "B03",
+      "nazev": "Kurková Dana"
+    },
+    {
+      "id": "B02",
+      "nazev": "Družina Pažin Jan"
+    },
+    {
+      "id": "B04",
+      "nazev": "ICE Richter David"
+    },
+    {
+      "id": "B01",
+      "nazev": "Jasná strategie s.r.o. Mgr. Milena Žitníková"
+    }
+  ]
+}
