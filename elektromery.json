@@ -67,6 +67,18 @@
     {
       "id": "B01",
       "nazev": "Jasná strategie s.r.o. Mgr. Milena Žitníková"
+    },
+    {
+      "id": "GCR_2",
+      "nazev": "Výroba"
+    },
+    {
+      "id": "ECS",
+      "nazev": "Spotřeba v celém objektu"
+    },
+    {
+      "id": "GCR_7",
+      "nazev": "Nakoupená elektřina"
     }
   ]
 }
